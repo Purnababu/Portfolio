@@ -49,7 +49,7 @@ body {
     justify-content: center;
     text-align: center;
     padding: 20px;
-    background-image: url('jbk.jpg'); /* Replace with your image file */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8asnBafKcovyisCTR7uCxtsqS473P16WXg&s'); /* Replace with your image file */
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center; /* Centers the image */
     background-attachment: fixed; 
