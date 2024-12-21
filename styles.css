@@ -3,7 +3,7 @@ body {
     margin: 0;
     background-color: #121212;
     color: #ffffff;
-    background-image: url('/imajes/jbk.jpg'); 
+    background-image: url('https://img.freepik.com/free-photo/plain-smooth-green-wall-texture_53876-129746.jpg'); 
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center; /* Centers the image */
     background-attachment: fixed; 
